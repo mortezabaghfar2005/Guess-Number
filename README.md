@@ -18,4 +18,4 @@ If the user can't guess the right number in 20 attempts, then he will lose and t
 
 This project is hosted live on netlify with a custom domain name, which you can checkout and play this game by following link:
 
-[guessmynumber.faisalansari.me](https://guessmynumber.faisalansari.me/)
+[Demo Project]( https://mortezabaghfar2005.github.io/Guess-Number/)
